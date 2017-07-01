@@ -1,0 +1,20 @@
+Victor Safronovich. CV
+=====================================
+
+TODO. NOT FINISHED YET
+
+.. image:: /_static/images/photo.jpg
+   :width: 333px
+   :height: 330px
+   :alt: Victor Safronovich
+   :align: right
+
+Birthday 1982.05.19, full years - 30
+
+Family status - married, will wait for the baby
+
+
+Other
+------------------------------------------------------
+
+* http://resume.github.com/?suvit

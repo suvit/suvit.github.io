@@ -1,0 +1,6 @@
+*.py[co]
+*~
+1
+docs/_build
+deploy/tmp
+env
